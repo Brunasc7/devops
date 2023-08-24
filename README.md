@@ -1,4 +1,6 @@
 # devops
 Básico de DevOps com Git e Github no Linux Mint
 
-Bruna 
+Bruna
+
+Bora para pratica
